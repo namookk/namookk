@@ -1,6 +1,7 @@
 
 안녕하세요👋 Backend 개발자 황남욱입니다.
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=namookk&show_icons=true&theme=apprentice)
 
 ### <center> 🛠Tech Stack🛠 </center>
 
